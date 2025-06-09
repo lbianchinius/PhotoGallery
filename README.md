@@ -35,5 +35,4 @@ PhotoGalleryApp is a web-based photo-gallery platform designed for professional 
 
 * Containerized CI/CD on AWS, DigitalOcean, or Heroku with automated testing
 * Enforced HTTPS, XSS/CSRF protection, encrypted password storage, and unique email validation&#x20;
-* Development timeline: Prototype in 2–3 weeks; Core features in 8–10 weeks; Testing in 2–3 weeks&#x20;
 
