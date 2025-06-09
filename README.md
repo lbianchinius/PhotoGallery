@@ -1,7 +1,3 @@
-Below is a suggested **README** description you can add to your GitHub repository. It’s written in Markdown and references the core objectives, major features, architecture, and tech stack as defined in your specifications.
-
----
-
 ## PhotoGalleryApp
 
 PhotoGalleryApp is a web-based photo-gallery platform designed for professional photographers and their clients. It lets photographers create and manage “projects” (photo sessions), queue and onboard clients via QR codes or unique links, bulk-upload session images, and send personalized galleries. Clients register on mobile, view only their own photos in a private gallery, favorite or download images, and receive automatic email notifications. Administrators have a dedicated panel to oversee users, moderate content, and configure subscription plans. &#x20;
